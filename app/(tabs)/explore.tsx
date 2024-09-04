@@ -4,7 +4,7 @@ export default function ExploreScreen()
 {
 	return (
 		<View style={styles.container}>
-			<Text style={styles.title}>Explore</Text>
+			<Text style={styles.title}>Explore!!!</Text>
 		</View>
   	);
 }
